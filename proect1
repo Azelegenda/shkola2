@@ -1,0 +1,65 @@
+<html>
+<head>
+    <title>Продаж ігор</title>
+</head>
+<body>
+    <header style="background-color: lightgrey">
+        <img src="https://via.placeholder.com/100x50?text=Логотип">
+        <h1>Ласкаво просимо на сайт продаж ігор!</h1>
+        
+           
+                <a href="#about">Шоловна</a>
+              <a href="#services">Таблиця</a>
+               <a href="#gallery">Галерея</a>
+               <a href="#contact">Контакти</a>
+            
+        
+    </header>
+
+    <main id="Головна" style="background-color: lightgrey">
+        
+            <h2>Про нас</h2>
+            <p>Ми продаємо ігри по ціні нижче чим їх продають</p>
+        
+
+       
+            <h2>Список ігор</h2>
+            <table id="#services" border="1">
+                <tr>
+                    <td>Ігри</td>
+                    <td>Ціна</td>
+                </tr>
+                <tr>
+                    <td>Among us</td>
+                    <td>99 грн</td>
+                </tr>
+                <tr>
+                    <td>Forts</td>
+                    <td>199 грн</td>
+                </tr>
+                <tr>
+                    <td>Rust</td>
+                    <td>499 грн</td>
+                </tr>
+                <tr>
+                    <td>Minecraft</td>
+                    <td>499 грн</td>
+                </tr>
+            </table>
+      
+        
+            <h2 id="gallery">Галерея</h2>
+            <img src="https://content1.rozetka.com.ua/goods/images/big/375368253.jpg"width="170px" height="150px" >
+            <img src="https://egamersworld.com/cdn-cgi/image/width=690,quality=75,format=webp/uploads/blog/1684922824505.webp"width="170px" height="150px" >
+            <img src="https://upload.wikimedia.org/wikipedia/ru/f/f4/Minecraft_Cover_Art.png"width="170px" height="150px" >
+            <img src="https://upload.wikimedia.org/wikipedia/ru/8/84/Among_Us.png"width="170px" height="150px">
+    </main>
+
+    <footer style="background-color: lightgrey">
+        <h2 id="contact">Контактна інформація</h2>
+        <p>Електронна пошта: prodashigor@gmail.com</p>
+        <p>Телефон: +380 12 345 6789</p>
+        <p>&copy; 2025 Автор сайту: Іван Іванов</p>
+    </footer>
+</body>
+</html>
